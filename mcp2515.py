@@ -574,7 +574,7 @@ class MCP2515(spi.Spi):
     
     :param idmode: set the RX buffer id mode (selectable from mcp2515.MCP_STDEXT, mcp2515.MCP_STD, mcp2515.MCP_EXT, or mcp2515.MCP_ANY
     :param speed: set the speed of the CAN communication 
-    :param clock: set the click of the CAN Communication
+    :param clock: set the clock of the CAN Communication
 
     Possible combination of values for Clock and Speed are:
 
