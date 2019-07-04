@@ -1,0 +1,14 @@
+---
+description: Driver for Microchip MCP2515 CAN Controller
+fullname: lib.microchip.mcp2515
+info:
+    chip_manufacturer: Microchip
+    chip_name: MCP2515
+    name: CAN Controller
+    type: Interface
+keywords:
+- CAN
+- Microchip
+- MCP2515
+title: Microchip MCP2515 CAN Controller
+...
